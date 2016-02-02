@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView con Fragmentos</string>
+    <string name="str_title">Titulo</string>
+</resources>
